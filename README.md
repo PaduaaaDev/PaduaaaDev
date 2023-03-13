@@ -16,7 +16,7 @@
  
  <br>
  
-  ### Aqui está alguns contatos profissionais meus!
+  ### Aqui estão minha redes ###
  
 <div> 
   <a href ="padua_19@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=plastic&logo=hotmail&logoColor=white" target="_blank"></a>
