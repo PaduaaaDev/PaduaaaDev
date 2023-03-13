@@ -2,10 +2,9 @@
 <!-- Dashboards -->
  <div>
    <a href="https://github.com/PaduaaaDev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaduaaaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaduaaaDev&layout=compact&langs_count=6&theme=dark"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaduaaaDev&show_icons=true&theme=radical"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaduaaaDev&layout=compact&langs_count=6&theme=dark"/>
+   <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaduaaaDev)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
 <!-- Icone das linguagem -->
  <div style="display: inline_block"><br>
