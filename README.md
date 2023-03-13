@@ -19,8 +19,8 @@
   ### Redes:
  
 <div> 
- <a href ="https://wa.me/5511968101119"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=plastic&logo=whatsapp&logoColor=white" target="_blank"></a> 
- <a href ="https://www.beecrowd.com.br/judge/pt/profile/806541"><img src="https://img.shields.io/badge/-Beecrowd-%23333?style=plastic&logo=beecrowd&logoColor=white" target="_blank"></a>
+ <a href ="https://wa.me/5511968101119" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=plastic&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ <a href ="https://www.beecrowd.com.br/judge/pt/profile/806541" target="_blank"><img src="https://img.shields.io/badge/-Beecrowd-%23333?style=plastic&logo=beecrowd&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/devpadua" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white"   target="_blank"></a>
  
  
