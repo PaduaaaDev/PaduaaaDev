@@ -1,11 +1,11 @@
 ## Bem-vindo(a) ao perfil do PaduaaaDev
-
+<!-- Dashboards -->
  <div>
    <a href="https://github.com/PaduaaaDev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaduaaaDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaduaaaDev&layout=compact&langs_count=6&theme=dark"/>
 </div>
-
+<!-- Icone das linguagem -->
  <div style="display: inline_block"><br>
   <img align="center" alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
