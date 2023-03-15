@@ -2,8 +2,8 @@
 <!-- Dashboards -->
  <div>
    <a href="https://github.com/PaduaaaDev">
-   <img height="180em" src="https://paduaaa-dev.vercel.app/api?username=PaduaaaDev&show_icons=true&theme=github_dark"/>
-   <img height="180em" src="https://paduaaa-dev.vercel.app/api/top-langs/?username=PaduaaaDev&layout=compact&theme=github_dark"/>
+   <img height="180em" src="https://paduaaa-dev-git-main-paduaaadev.vercel.app/api?username=PaduaaaDev&show_icons=true&theme=github_dark"/>
+   <img height="180em" src="https://paduaaa-dev-git-main-paduaaadev.vercel.app/api/top-langs/?username=PaduaaaDev&layout=compact&theme=github_dark"/>
    
 </div>
 <!-- Icone das linguagem -->
